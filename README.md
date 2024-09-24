@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://tarek514.github.io/Frontend-Mentor-Challenge-10/)
 
 ## My process
 
